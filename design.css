@@ -1,0 +1,100 @@
+body{
+    
+    background-image: url(Images/pattern-background-desktop.svg);
+    background-repeat: no-repeat;
+    background-size: 1500px ;
+}
+body{
+    background-color:rgb(216, 234, 245);
+    
+}
+h1{
+    font-weight: 900rem;
+}
+
+
+
+.main {
+    border-radius: 25px;
+    display: inline-block;
+    background-color: white;
+   margin: 80px 00px 80px 400px;
+text-align: center;
+width: 450px;
+padding: auto;
+box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+overflow: auto;
+/*70px 387px 70px 387px; */
+
+
+
+
+
+
+}
+.content{
+    width: 60%;
+    margin: auto;
+   color: hsl(224, 23%, 55%) ; 
+  
+}
+.plans{
+    
+    background-color: hsl(225, 100%, 98%);
+    border-radius: 20px;
+    display: flex;
+    padding: 3px;
+    align-items: center;
+    margin: 10px 50px;
+    padding-bottom: 20px;
+}
+.music{
+    padding-right: 15px;
+    padding-left: 0px;
+}
+.Change-plan{
+    padding-left: 90px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-right: 30px;
+    color: hsl(245, 75%, 52%);
+}
+.money{
+   
+    margin-right: 7.5px;
+    color: hsl(224, 23%, 55%) ;
+ 
+    
+}
+.Change-plan:hover{
+    color:  hsl(245, 75%, 65%);
+    text-decoration: none;
+}
+.Payment{
+    background-color: hsl(245, 75%, 52%);
+    color: white;
+    font-weight: 500;
+    font-size: 1.5rem;
+    border-radius: 10px;
+    padding: 10px 60px 10px 60px;
+    text-decoration: none;
+
+}
+.Payment:hover{
+    background-color:  hsl(245, 75%, 65%);
+}
+
+.cancel{
+    display: inline-block;
+    color: hsl(224, 23%, 55%) ;
+    font-size: 1.5rem;
+    padding-bottom: 50px;
+    padding-top: 30px;
+    text-decoration: none;
+}
+.code{
+text-align: center;
+display: flexbox;
+margin-right: 100px;
+
+}
